@@ -1,0 +1,13 @@
+﻿生成启动时间为 2019/1/29 星期二 上午 12:36:50。
+     1>项目“F:\ndkWorkSpace\NDK_Day16\NDK_Day16\NDK_Day16.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Simple.c
+         Simple.c
+     1>f:\ndkworkspace\ndk_day16\ndk_day16\simple.c(93): warning C4172: 返回局部变量或临时变量的地址
+     1>f:\ndkworkspace\ndk_day16\ndk_day16\simple.c(136): error C2374: “a”: 重定义；多次初始化
+                 f:\ndkworkspace\ndk_day16\ndk_day16\simple.c(125) : 参见“a”的声明
+     1>已完成生成项目“F:\ndkWorkSpace\NDK_Day16\NDK_Day16\NDK_Day16.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.49

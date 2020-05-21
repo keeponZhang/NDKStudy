@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/7/1 21:50:30。
+     1>项目“C:\Users\hcDarren\Desktop\android\NDK\NDK_Day27_VS\NDK_Day27_VS\NDK_Day27_VS.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Simple.cpp
+         Simple.cpp
+     1>Simple.cpp(311): warning C4101: “e”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hcDarren\Desktop\android\NDK\NDK_Day27_VS\Release\NDK_Day27_VS.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\hcDarren\Desktop\android\NDK\NDK_Day27_VS\Release\NDK_Day27_VS.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hcDarren\Desktop\android\NDK\NDK_Day27_VS\Release\NDK_Day27_VS.lib" /MACHINE:X86 /SAFESEH Release\Simple.obj
+         Release\Simple.obj
+     1>Release\Simple.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+         正在生成代码
+         已完成代码的生成
+         NDK_Day27_VS.vcxproj -> C:\Users\hcDarren\Desktop\android\NDK\NDK_Day27_VS\Release\NDK_Day27_VS.exe
+     1>已完成生成项目“C:\Users\hcDarren\Desktop\android\NDK\NDK_Day27_VS\NDK_Day27_VS\NDK_Day27_VS.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.17

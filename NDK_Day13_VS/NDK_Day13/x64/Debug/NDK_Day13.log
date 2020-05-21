@@ -1,0 +1,15 @@
+﻿生成启动时间为 2018/4/21 21:30:12。
+     1>项目“C:\Users\hcDarren\Desktop\android\NDK\NDK_Day13\NDK_Day13\NDK_Day13.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TC /errorReport:prompt Simple.c
+         Simple.c
+     1>Simple.c(12): warning C4090: “初始化”: 不同的“const”限定符
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hcDarren\Desktop\android\NDK\NDK_Day13\x64\Debug\NDK_Day13.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\hcDarren\Desktop\android\NDK\NDK_Day13\x64\Debug\NDK_Day13.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hcDarren\Desktop\android\NDK\NDK_Day13\x64\Debug\NDK_Day13.lib" /MACHINE:X64 /DLL x64\Debug\Simple.obj
+            正在创建库 C:\Users\hcDarren\Desktop\android\NDK\NDK_Day13\x64\Debug\NDK_Day13.lib 和对象 C:\Users\hcDarren\Desktop\android\NDK\NDK_Day13\x64\Debug\NDK_Day13.exp
+         NDK_Day13.vcxproj -> C:\Users\hcDarren\Desktop\android\NDK\NDK_Day13\x64\Debug\NDK_Day13.dll
+     1>已完成生成项目“C:\Users\hcDarren\Desktop\android\NDK\NDK_Day13\NDK_Day13\NDK_Day13.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.70

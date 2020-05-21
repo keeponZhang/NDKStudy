@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/1/28 星期一 下午 3:31:20。
+     1>项目“F:\ndkWorkSpace\NDK_Day12_VS\NDK_Day12\NDK_Day12.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "JNIEnv原理流程.c" Simple.c
+         Simple.c
+     1>f:\ndkworkspace\ndk_day12_vs\ndk_day12\simple.c(32): warning C4090: “初始化”: 不同的“const”限定符
+         JNIEnv原理流程.c
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\ndkWorkSpace\NDK_Day12_VS\Debug\NDK_Day12.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\ndkWorkSpace\NDK_Day12_VS\Debug\NDK_Day12.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\ndkWorkSpace\NDK_Day12_VS\Debug\NDK_Day12.lib" /MACHINE:X86 /DLL "Debug\JNIEnv原理流程.obj"
+         Debug\Simple.obj
+            正在创建库 F:\ndkWorkSpace\NDK_Day12_VS\Debug\NDK_Day12.lib 和对象 F:\ndkWorkSpace\NDK_Day12_VS\Debug\NDK_Day12.exp
+         NDK_Day12.vcxproj -> F:\ndkWorkSpace\NDK_Day12_VS\Debug\NDK_Day12.dll
+     1>已完成生成项目“F:\ndkWorkSpace\NDK_Day12_VS\NDK_Day12\NDK_Day12.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.87

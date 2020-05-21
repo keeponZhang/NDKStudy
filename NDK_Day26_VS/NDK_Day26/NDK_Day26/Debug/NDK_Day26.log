@@ -1,0 +1,12 @@
+﻿生成启动时间为 2019/2/1 星期五 下午 5:20:39。
+     1>项目“F:\ndkWorkSpace\NDK_Day26_VS\NDK_Day26\NDK_Day26\NDK_Day26.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Simple.cpp
+         Simple.cpp
+     1>f:\ndkworkspace\ndk_day26_vs\ndk_day26\ndk_day26\simple.cpp(86): error C2440: “static_cast”: 无法从“long”转换为“Student *”
+                 从整型转换为指针类型要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>已完成生成项目“F:\ndkWorkSpace\NDK_Day26_VS\NDK_Day26\NDK_Day26\NDK_Day26.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.58
