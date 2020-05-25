@@ -1,0 +1,164 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?MjguQysrvfi91yAtIFNUTCDI3cb3tcS7+bG+venJ3LrNyrnTww==?=
+Date: Date: Sun, 8 Jul 2018 21:48:38 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0054825468.467"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0054825468.467
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0018275156.334"
+
+
+------=_Next_Part_0018275156.334
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0018275156.334
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A<title>28.C++=BD=
+=F8=BD=D7 - STL =C8=DD=C6=F7=B5=C4=BB=F9=B1=BE=BD=E9=C9=DC=BA=CD=CA=
+=B9=D3=C3</title>=0A    <!--mark |wiz_custom_css| for wizeditor r=
+eplace it-->=0A<style id=3D"wiz_custom_css">html, body {        =20=
+   font-size: 15px;        }        body {            font-family=
+: Helvetica, 'Hiragino Sans GB', '=CE=A2=C8=ED=D1=C5=BA=DA', 'Mic=
+rosoft YaHei UI', SimSun, SimHei, arial, sans-serif;            l=
+ine-height: 1.6;            margin: 0;            padding: 20px 1=
+5px;            padding: 1.33rem 1rem;        }        h1, h2, h3=
+, h4, h5, h6 {            margin: 20px 0 10px;            margin:=
+ 1.33rem 0 0.667rem;            padding: 0;            font-weigh=
+t: bold;        }        h1 {            font-size: 21px;       =20=
+    font-size: 1.4rem;        }        h2 {            font-size:=
+ 20px;            font-size: 1.33rem;        }        h3 {      =20=
+     font-size: 18px;            font-size: 1.2rem;        }    =20=
+   h4 {            font-size: 17px;            font-size: 1.13rem=
+;        }        h5 {            font-size: 15px;            fon=
+t-size: 1rem;        }        h6 {            font-size: 15px;  =20=
+         font-size: 1rem;            color: #777777;            m=
+argin: 1rem 0;        }        div, p, ul, ol, dl, li {         =20=
+  margin: 0;        }        blockquote, table, pre, code {     =20=
+      margin: 8px 0;        }        ul, ol {            padding-=
+left: 32px;            padding-left: 2.13rem;        }        blo=
+ckquote {            padding: 0 12px;            padding: 0 0.8re=
+m;        }        blockquote > :first-child {            margin-=
+top: 0;        }        blockquote > :last-child {            mar=
+gin-bottom: 0;        }        img {            border: 0;      =20=
+     max-width: 100%;            height: auto !important;       =20=
+    margin: 2px 0;        }        table {            border-coll=
+apse: collapse;            border: 1px solid #bbbbbb;        }  =20=
+     td, th {            padding: 4px 8px;            border-coll=
+apse: collapse;            border: 1px solid #bbbbbb;			        }=
+        @media only screen and (-webkit-max-device-width: 1024px)=
+, only screen and (-o-max-device-width: 1024px), only screen and=20=
+(max-device-width: 1024px), only screen and (-webkit-min-device-p=
+ixel-ratio: 3), only screen and (-o-min-device-pixel-ratio: 3), o=
+nly screen and (min-device-pixel-ratio: 3) {            html, bod=
+y {                font-size: 17px;            }            body=20=
+{                line-height: 1.7;                padding: 0.75re=
+m 0.9375rem;                color: #353c47;            }        =20=
+   h1 {                font-size: 2.125rem;            }        =20=
+   h2 {                font-size: 1.875rem;            }        =20=
+   h3 {                font-size: 1.625rem;            }        =20=
+   h4 {                font-size: 1.375rem;            }        =20=
+   h5 {                font-size: 1.125rem;            }        =20=
+   h6 {                color: inherit;            }            ul=
+, ol {                padding-left: 2.5rem;            }        =20=
+   blockquote {                padding: 0 0.9375rem;            }=
+        }</style></head>=0A=0A<body spellcheck=3D"false" ><div>1.=
+ vector =C8=DD=C6=F7</div><div><p style=3D"margin: 10px auto; pad=
+ding: 0px; color: rgb(51, 51, 51); font-family: Verdana, Arial, H=
+elvetica, sans-serif; font-size: 14px; font-variant-ligatures: no=
+rmal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255)=
+;">(1). =C8=DD=C1=BF</p><ul style=3D"margin-bottom: 1em; margin-l=
+eft: 40px; padding: 0px; color: rgb(51, 51, 51); font-family: Ver=
+dana, Arial, Helvetica, sans-serif; font-size: 14px; font-variant=
+-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(=
+255, 255, 255);"><li style=3D"padding: 0px; list-style-type: disc=
+;">=CF=F2=C1=BF=B4=F3=D0=A1=A3=BA vec.size();</li><li style=3D"pa=
+dding: 0px; list-style-type: disc;">=CF=F2=C1=BF=D5=E6=CA=B5=B4=F3=
+=D0=A1=A3=BA vec.capacity();</li><li style=3D"padding: 0px; list-=
+style-type: disc;">=CF=F2=C1=BF=C5=D0=BF=D5=A3=BA vec.empty();</l=
+i></ul><p style=3D"margin: 10px auto; padding: 0px; color: rgb(51=
+, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif; fo=
+nt-size: 14px; font-variant-ligatures: normal; orphans: 2; widows=
+: 2; background-color: rgb(255, 255, 255);">(2). =D0=DE=B8=C4</p>=
+<ul style=3D"margin-bottom: 1em; margin-left: 40px; padding: 0px;=
+ color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica,=20=
+sans-serif; font-size: 14px; font-variant-ligatures: normal; orph=
+ans: 2; widows: 2; background-color: rgb(255, 255, 255);"><li sty=
+le=3D"padding: 0px; list-style-type: disc;">=C4=A9=CE=B2=CC=ED=BC=
+=D3=D4=AA=CB=D8=A3=BA vec.push_back();</li><li style=3D"padding:=20=
+0px; list-style-type: disc;">=C4=A9=CE=B2=C9=BE=B3=FD=D4=AA=CB=D8=
+=A3=BA vec.pop_back();</li><li style=3D"padding: 0px; list-style-=
+type: disc;">=C8=CE=D2=E2=CE=BB=D6=C3=B2=E5=C8=EB=D4=AA=CB=D8=A3=BA=
+ vec.insert();</li><li style=3D"padding: 0px; list-style-type: di=
+sc;">=C8=CE=D2=E2=CE=BB=D6=C3=C9=BE=B3=FD=D4=AA=CB=D8=A3=BA vec.e=
+rase();</li><li style=3D"padding: 0px; list-style-type: disc;">=C7=
+=E5=BF=D5=CF=F2=C1=BF=D4=AA=CB=D8=A3=BA vec.clear();</li></ul><p=20=
+style=3D"margin: 10px auto; padding: 0px; color: rgb(51, 51, 51);=
+ font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1=
+4px; font-variant-ligatures: normal; orphans: 2; widows: 2; backg=
+round-color: rgb(255, 255, 255);">(3)=B5=FC=B4=FA=C6=F7</p><ul st=
+yle=3D"margin-bottom: 1em; margin-left: 40px; padding: 0px; color=
+: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-s=
+erif; font-size: 14px; font-variant-ligatures: normal; orphans: 2=
+; widows: 2; background-color: rgb(255, 255, 255);"><li style=3D"=
+padding: 0px; list-style-type: disc;">=BF=AA=CA=BC=D6=B8=D5=EB=A3=
+=BAvec.begin();</li><li style=3D"padding: 0px; list-style-type: d=
+isc;">=C4=A9=CE=B2=D6=B8=D5=EB=A3=BAvec.end(); //=D6=B8=CF=F2=D7=EE=
+=BA=F3=D2=BB=B8=F6=D4=AA=CB=D8=B5=C4=CF=C2=D2=BB=B8=F6=CE=BB=D6=C3=
+</li><li style=3D"padding: 0px; list-style-type: disc;">=D6=B8=CF=
+=F2=B3=A3=C1=BF=B5=C4=C4=A9=CE=B2=D6=B8=D5=EB=A3=BA vec.cend();</=
+li></ul><p style=3D"margin: 10px auto; padding: 0px; color: rgb(5=
+1, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif; f=
+ont-size: 14px; font-variant-ligatures: normal; orphans: 2; widow=
+s: 2; background-color: rgb(255, 255, 255);">(4)=D4=AA=CB=D8=B5=C4=
+=B7=C3=CE=CA</p><ul style=3D"margin-bottom: 1em; margin-left: 40p=
+x; padding: 0px; color: rgb(51, 51, 51); font-family: Verdana, Ar=
+ial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatur=
+es: normal; orphans: 2; widows: 2; background-color: rgb(255, 255=
+, 255);"><li style=3D"padding: 0px; list-style-type: disc;">=CF=C2=
+=B1=EA=B7=C3=CE=CA=A3=BA vec[1]; //=B2=A2=B2=BB=BB=E1=BC=EC=B2=E9=
+=CA=C7=B7=F1=D4=BD=BD=E7</li><li style=3D"padding: 0px; list-styl=
+e-type: disc;">at=B7=BD=B7=A8=B7=C3=CE=CA=A3=BA vec.at(1); //=D2=D4=
+=C9=CF=C1=BD=D5=DF=B5=C4=C7=F8=B1=F0=BE=CD=CA=C7at=BB=E1=BC=EC=B2=
+=E9=CA=C7=B7=F1=D4=BD=BD=E7=A3=AC=CA=C7=D4=F2=C5=D7=B3=F6out of r=
+ange=D2=EC=B3=A3</li><li style=3D"padding: 0px; list-style-type:=20=
+disc;">=B7=C3=CE=CA=B5=DA=D2=BB=B8=F6=D4=AA=CB=D8=A3=BA vec.front=
+();</li><li style=3D"padding: 0px; list-style-type: disc;">=B7=C3=
+=CE=CA=D7=EE=BA=F3=D2=BB=B8=F6=D4=AA=CB=D8=A3=BA vec.back();</li>=
+</ul></div><div><br></div><div>2. stack =C8=DD=C6=F7</div><div><b=
+r></div><div><br></div><div>3. queue =C8=DD=C6=F7</div><div><br><=
+/div><div><br></div><div>4. list =C8=DD=C6=F7</div><div><br></div=
+><div><br></div><div>5. set =C8=DD=C6=F7</div><div><meta http-equ=
+iv=3D"content-type" content=3D"text/html; charset=3Dutf-8"><title=
+></title><!--WizRtf2Html Charset=3D0  --><span style=3D"font-size=
+:9pt;color:#a31515;background-color:#ffffff;font-family:'NSimSun'=
+;"></span></div><div><meta http-equiv=3D"content-type" content=3D=
+"text/html; charset=3Dutf-8"><title></title><!--WizRtf2Html Chars=
+et=3D0  --><span style=3D"font-size:9pt;color:#0000ff;background-=
+color:#ffffff;font-family:'NSimSun';">#include<span style=3D"colo=
+r:#a31515;">&lt;functional&gt;</span></span></div><div><span styl=
+e=3D"font-size:9pt;color:#0000ff;background-color:#ffffff;font-fa=
+mily:'NSimSun';"><span style=3D"color:#a31515;"><br></span></span=
+></div><div>6. multiset=C8=DD=C6=F7</div><div><br></div><div><br>=
+</div><div>=D1=A7=CF=B0=BE=AB=BB=AA=A3=BA=BC=AF=BA=CF=B5=D7=B2=E3=
+=B5=C4=CA=FD=BE=DD=BD=E1=B9=B9=D4=AD=C0=ED</div><div><a href=3D"h=
+ttps://en.cppreference.com/w/cpp/container/set">https://en.cppref=
+erence.com/w/cpp/container/set</a></div><div> <br></div><div><br>=
+</div><div><br></div><div><br></div></body></html>
+
+------=_Next_Part_0018275156.334--
+
+------=_Next_Part_0054825468.467--
+

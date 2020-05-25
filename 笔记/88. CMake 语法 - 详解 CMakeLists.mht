@@ -1,0 +1,565 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?ODguIENNYWtlINPvt6ggLSDP6r3iIENNYWtlTGlzdHMudHh0?=
+Date: Date: Sun, 26 May 2019 22:02:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0335660295.358"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0335660295.358
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0111886765.962"
+
+
+------=_Next_Part_0111886765.962
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0111886765.962
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A<title>88. CMa=
+ke =D3=EF=B7=A8 - =CF=EA=BD=E2 CMakeLists.txt</title>=0A    <!--m=
+ark |wiz_custom_css| for wizeditor replace it-->=0A<style id=3D"w=
+iz_custom_css">html, body {            font-size: 15px;        }=20=
+       body {            font-family: Helvetica, 'Hiragino Sans G=
+B', '=CE=A2=C8=ED=D1=C5=BA=DA', 'Microsoft YaHei UI', SimSun, Sim=
+Hei, arial, sans-serif;            line-height: 1.6;            m=
+argin: 0;            padding: 20px 15px;            padding: 1.33=
+rem 1rem;        }        h1, h2, h3, h4, h5, h6 {            mar=
+gin: 20px 0 10px;            margin: 1.33rem 0 0.667rem;        =20=
+   padding: 0;            font-weight: bold;        }        h1 {=
+            font-size: 21px;            font-size: 1.4rem;      =20=
+ }        h2 {            font-size: 20px;            font-size:=20=
+1.33rem;        }        h3 {            font-size: 18px;       =20=
+    font-size: 1.2rem;        }        h4 {            font-size:=
+ 17px;            font-size: 1.13rem;        }        h5 {      =20=
+     font-size: 15px;            font-size: 1rem;        }      =20=
+ h6 {            font-size: 15px;            font-size: 1rem;   =20=
+        color: #777777;            margin: 1rem 0;        }     =20=
+  div, p, ul, ol, dl, li {            margin: 0;        }       =20=
+blockquote, table, pre, code {            margin: 8px 0;        }=
+        ul, ol {            padding-left: 32px;            paddin=
+g-left: 2.13rem;        }        blockquote {            padding:=
+ 0 12px;            padding: 0 0.8rem;        }        blockquote=
+ > :first-child {            margin-top: 0;        }        block=
+quote > :last-child {            margin-bottom: 0;        }     =20=
+  img {            border: 0;            max-width: 100%;       =20=
+    height: auto !important;            margin: 2px 0;        } =20=
+      table {            border-collapse: collapse;            bo=
+rder: 1px solid #bbbbbb;        }        td, th {            padd=
+ing: 4px 8px;            border-collapse: collapse;            bo=
+rder: 1px solid #bbbbbb;			        }        @media only screen an=
+d (-webkit-max-device-width: 1024px), only screen and (-o-max-dev=
+ice-width: 1024px), only screen and (max-device-width: 1024px), o=
+nly screen and (-webkit-min-device-pixel-ratio: 3), only screen a=
+nd (-o-min-device-pixel-ratio: 3), only screen and (min-device-pi=
+xel-ratio: 3) {            html, body {                font-size:=
+ 17px;            }            body {                line-height:=
+ 1.7;                padding: 0.75rem 0.9375rem;                c=
+olor: #353c47;            }            h1 {                font-s=
+ize: 2.125rem;            }            h2 {                font-s=
+ize: 1.875rem;            }            h3 {                font-s=
+ize: 1.625rem;            }            h4 {                font-s=
+ize: 1.375rem;            }            h5 {                font-s=
+ize: 1.125rem;            }            h6 {                color:=
+ inherit;            }            ul, ol {                padding=
+-left: 2.5rem;            }            blockquote {             =20=
+  padding: 0 0.9375rem;            }        }</style><link type=3D=
+"text/css" rel=3D"stylesheet" id=3D"wiz_code_highlight_link" href=
+=3D"wiz_code_highlight_68.css"></head>=0A=0A<body spellcheck=3D"f=
+alse" ><div>=0A    1. CMake =B0=B2=D7=B0=CE=CA=CC=E2=B2=B9=B3=E4=0A=
+</div><div><a href=3D"https://cmake.org/cmake-tutorial/" target=3D=
+"_blank" style=3D"box-sizing: border-box; color: rgb(49, 148, 208=
+); text-decoration: none; outline: none; cursor: pointer; transit=
+ion: color 0.3s ease 0s; touch-action: manipulation; font-family:=
+ -apple-system, 'SF UI Text', Arial, 'PingFang SC', 'Hiragino San=
+s GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif; font=
+-size: 16px; font-variant-ligatures: normal; orphans: 2; widows:=20=
+2; background-color: rgb(252, 250, 242);">https://cmake.org/cmake=
+-tutorial/</a><br></div><div><span data-wiz-span=3D"data-wiz-span=
+" style=3D"color: rgb(255, 0, 0);">=B2=BB=BA=C3=B5=C4=D0=CE=CA=BD=
+=CF=C2=CF=F2=C4=DA=B7=A2=D5=B9=A3=AC=BA=C3=B5=C4=D0=CE=CA=BD=CF=C2=
+=CF=F2=CD=E2=B7=A2=D5=B9</span></div><div>1. FrameWork =B2=E3=D4=B4=
+=C2=EB</div><div>2. =B5=DA=C8=FD=B7=BD=BF=E2=B5=C4=D4=B4=C2=EB</d=
+iv><div>3. =CA=FD=BE=DD=BD=E1=B9=B9=CB=E3=B7=A8</div><div>4. =C9=E8=
+=BC=C6=C4=A3=CA=BD</div><div>5. =D0=D4=C4=DC=D3=C5=BB=AF</div><di=
+v>6. =D0=E9=C4=E2=BB=FA</div><div>7. =CF=DF=B3=CC=D3=EB=B6=E0=CF=DF=
+=B3=CC</div><div>8. ndk =BF=AA=B7=A2</div><div>9. =C1=CB=BD=E2 op=
+encv =A3=AC ffmpeg&nbsp;</div><div><br></div><div>=CA=F5 =BA=CD <=
+span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(255, 0,=20=
+0);">=B5=C0</span>=A3=AC=CE=E5=B2=E3=A3=A8=CD=E2=B1=ED=A3=AC=B9=A4=
+=D7=F7=A3=AC=D7=CA=D4=B4=BD=BB=BC=CA=C8=A6=A3=AC=C4=DC=C1=A6=A3=AC=
+=D6=BE=CF=F2=B4=E6=D4=DA=B8=D0=A3=A9</div><div><br></div><div>1.=20=
+=C9=CF=B4=AB cmake =D7=CA=D4=B4=B2=BF=A3=AC=C8=BB=BA=F3=BD=E2=D1=B9=
+</div><div>2. =D4=CB=D0=D0 ./bootstrap&nbsp;</div><div>3. =D4=CB=D0=
+=D0 make</div><div>4. =C8=CE=D2=E2=C4=BF=C2=BC=D4=CB=D0=D0&nbsp;c=
+make --version =BF=B4=CA=C7=B7=F1=D5=FD=B3=A3</div><div><span sty=
+le=3D"line-height: 1.6;">5. =C5=E4=D6=C3=BB=B7=BE=B3=B1=E4=C1=BF&=
+nbsp;</span>vim /etc/profile</div><div>6.&nbsp;source /etc/profil=
+e =C8=C3=BB=B7=BE=B3=B1=E4=C1=BF=C9=FA=D0=A7</div><div><br></div>=
+<div>2. =B3=F5=CA=D4 CMake =B5=C4 HelloWorld&nbsp;</div><div><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(255, 0, 0);=
+">=B2=BB=B9=E2=D2=AA=B8=FA=D7=C5=C7=C3=D2=BB=B1=E9=A3=AC=BB=B9=D2=
+=AA=C4=DC=D7=D4=BC=BA=D0=B4=A3=AC=D6=D8=B5=E3</span></div><div><d=
+iv><pre class=3D"prettyprint linenums prettyprinted"><ol class=3D=
+"linenums"><li class=3D"L0"><code class=3D"language-java"></code>=
+</li><li class=3D"L1"><code class=3D"language-java"><span class=3D=
+"pun">#</span><span class=3D"pln"> </span><span class=3D"pun">=B8=
+=F8=B9=A4=B3=CC=C8=A1=D2=BB=B8=F6=C3=FB=D7=D6</span></code></li><=
+li class=3D"L2"><code class=3D"language-java"><span class=3D"pln"=
+>PROJECT </span><span class=3D"pun">(</span><span class=3D"pln">H=
+ELLO</span><span class=3D"pun">)</span></code></li><li class=3D"L=
+3"><code class=3D"language-java"></code></li><li class=3D"L4"><co=
+de class=3D"language-java"><span class=3D"pun">#</span><span clas=
+s=3D"pln"> </span><span class=3D"pun">=B6=A8=D2=E5=D2=BB=B8=F6=B1=
+=E4=C1=BF</span></code></li><li class=3D"L5"><code class=3D"langu=
+age-java"><span class=3D"pln">SET</span><span class=3D"pun">(</sp=
+an><span class=3D"pln">SRC_LIST hello</span><span class=3D"pun">.=
+</span><span class=3D"pln">cpp</span><span class=3D"pun">)</span>=
+</code></li><li class=3D"L6"><code class=3D"language-java"></code=
+></li><li class=3D"L7"><code class=3D"language-java"><span class=3D=
+"pun">#</span><span class=3D"pln"> </span><span class=3D"pun">=B4=
+=F2=D3=A1</span></code></li><li class=3D"L8"><code class=3D"langu=
+age-java"><span class=3D"pln">MESSAGE</span><span class=3D"pun">(=
+</span><span class=3D"pln">STATUS </span><span class=3D"str">"thi=
+s is BINARY dir "</span><span class=3D"pln">$</span><span class=3D=
+"pun">{</span><span class=3D"pln">HELLO_BINARY_DIR</span><span cl=
+ass=3D"pun">})</span></code></li><li class=3D"L9"><code class=3D"=
+language-java"><span class=3D"pln">MESSAGE</span><span class=3D"p=
+un">(</span><span class=3D"pln">STATUS </span><span class=3D"str"=
+>"this is SOURCE dir "</span><span class=3D"pln">$</span><span cl=
+ass=3D"pun">{</span><span class=3D"pln">HELLO_SOURCE_DIR</span><s=
+pan class=3D"pun">})</span></code></li><li class=3D"L0"><code cla=
+ss=3D"language-java"><span class=3D"pln">MESSAGE</span><span clas=
+s=3D"pun">(</span><span class=3D"pln">STATUS </span><span class=3D=
+"str">"this is PROJECT_SOURCE dir "</span><span class=3D"pln">$</=
+span><span class=3D"pun">{</span><span class=3D"pln">PROJECT_SOUR=
+CE_DIR</span><span class=3D"pun">})</span></code></li><li class=3D=
+"L1"><code class=3D"language-java"></code></li><li class=3D"L2"><=
+code class=3D"language-java"><span class=3D"pun">#</span><span cl=
+ass=3D"pln"> </span><span class=3D"pun">=C9=FA=B3=C9=BF=C9=D6=B4=D0=
+=D0=CE=C4=BC=FE</span></code></li><li class=3D"L3"><code class=3D=
+"language-java"><span class=3D"pln">ADD_EXECUTABLE</span><span cl=
+ass=3D"pun">(</span><span class=3D"pln">hello</span><span class=3D=
+"pun">.</span><span class=3D"pln">out $</span><span class=3D"pun"=
+>{</span><span class=3D"pln">SRC_LIST</span><span class=3D"pun">}=
+)</span></code></li></ol></pre></div></div><div>3. =B9=B9=BD=A8=C9=
+=FA=B3=C9 .so =B6=AF=CC=AC=BF=E2</div><div>=B0=D1 src =C0=EF=B5=C4=
+=D4=B4=CE=C4=BC=FE=A3=AC=C9=FA=B3=C9 .so =B6=AF=CC=AC=BF=E2=A3=AC=
+libmath.so =D7=EE=D6=D5=C9=FA=B3=C9=D4=DA lib =C4=BF=C2=BC=CF=C2<=
+/div><div><div><pre class=3D"prettyprint linenums prettyprinted">=
+<ol class=3D"linenums"><li class=3D"L0"><code class=3D"language-j=
+ava"><span class=3D"pun">#</span><span class=3D"pln"> </span><spa=
+n class=3D"pun">=D6=B8=B6=A8</span><span class=3D"pln"> </span><s=
+pan class=3D"typ">CMake</span><span class=3D"pln"> </span><span c=
+lass=3D"pun">=B5=C4=D7=EE=B5=CD=B1=E0=D2=EB=B0=E6=B1=BE</span></c=
+ode></li><li class=3D"L1"><code class=3D"language-java"><span cla=
+ss=3D"pln">CMAKE_MINIMUM_REQUIRED</span><span class=3D"pun">(</sp=
+an><span class=3D"pln">VERSION </span><span class=3D"lit">3.14</s=
+pan><span class=3D"pun">)</span></code></li><li class=3D"L2"><cod=
+e class=3D"language-java"></code></li><li class=3D"L3"><code clas=
+s=3D"language-java"><span class=3D"pun">#</span><span class=3D"pl=
+n"> </span><span class=3D"pun">...</span></code></li><li class=3D=
+"L4"><code class=3D"language-java"><span class=3D"pln">PROJECT </=
+span><span class=3D"pun">(</span><span class=3D"pln">MATH</span><=
+span class=3D"pun">)</span></code></li><li class=3D"L5"><code cla=
+ss=3D"language-java"></code></li><li class=3D"L6"><code class=3D"=
+language-java"><span class=3D"pun">#</span><span class=3D"pln"> <=
+/span><span class=3D"pun">=CB=D1=BC=AF</span><span class=3D"pln">=
+ src </span><span class=3D"pun">=C4=BF=C2=BC=CF=C2=B5=C4=CB=F9=D3=
+=D0</span><span class=3D"pln"> </span><span class=3D"pun">.</span=
+><span class=3D"pln">cpp </span><span class=3D"pun">=CE=C4=BC=FE(=
+=D4=B4=CE=C4=BC=FE)</span></code></li><li class=3D"L7"><code clas=
+s=3D"language-java"><span class=3D"pun">#</span><span class=3D"pl=
+n"> SRC_LIST </span><span class=3D"pun">=B4=FA=B1=ED</span><span=20=
+class=3D"pln"> src </span><span class=3D"pun">=C4=BF=C2=BC=CF=C2=B5=
+=C4=CB=F9=D3=D0=D4=B4=CE=C4=BC=FE</span><span class=3D"pln"> </sp=
+an></code></li><li class=3D"L8"><code class=3D"language-java"><sp=
+an class=3D"pun">#</span><span class=3D"pln"> AUX_SOURCE_DIRECTOR=
+Y </span><span class=3D"pun">(</span><span class=3D"pln">$</span>=
+<span class=3D"pun">{</span><span class=3D"pln">PROJECT_SOURCE_DI=
+R</span><span class=3D"pun">}/</span><span class=3D"pln">src SRC_=
+LIST</span><span class=3D"pun">)</span></code></li><li class=3D"L=
+9"><code class=3D"language-java"><span class=3D"pln">FILE</span><=
+span class=3D"pun">(</span><span class=3D"pln">GLOB SRC_LIST_CPP=20=
+</span><span class=3D"str">"${PROJECT_SOURCE_DIR}/src/*.cpp"</spa=
+n><span class=3D"pun">)</span></code></li><li class=3D"L0"><code=20=
+class=3D"language-java"><span class=3D"pln">FILE</span><span clas=
+s=3D"pun">(</span><span class=3D"pln">GLOB SRC_LIST_C </span><spa=
+n class=3D"str">"${PROJECT_SOURCE_DIR}/src/*.c"</span><span class=
+=3D"pun">)</span></code></li><li class=3D"L1"><code class=3D"lang=
+uage-java"></code></li><li class=3D"L2"><code class=3D"language-j=
+ava"><span class=3D"pun">#</span><span class=3D"pln"> </span><spa=
+n class=3D"pun">=D6=B8=B6=A8=CD=B7=CE=C4=BC=FE=D4=DA=C4=C4=B8=F6=C4=
+=BF=C2=BC</span></code></li><li class=3D"L3"><code class=3D"langu=
+age-java"><span class=3D"pln">INCLUDE_DIRECTORIES </span><span cl=
+ass=3D"pun">(</span><span class=3D"pln">$</span><span class=3D"pu=
+n">{</span><span class=3D"pln">PROJECT_SOURCE_DIR</span><span cla=
+ss=3D"pun">}/</span><span class=3D"pln">include</span><span class=
+=3D"pun">)</span></code></li><li class=3D"L4"><code class=3D"lang=
+uage-java"></code></li><li class=3D"L5"><code class=3D"language-j=
+ava"><span class=3D"pun">#</span><span class=3D"pln"> </span><spa=
+n class=3D"pun">=D6=B8=B6=A8</span><span class=3D"pln"> so </span=
+><span class=3D"pun">=B5=C4=C9=FA=B3=C9=C4=BF=C2=BC</span><span c=
+lass=3D"pln"> lib</span></code></li><li class=3D"L6"><code class=3D=
+"language-java"><span class=3D"pln">SET </span><span class=3D"pun=
+">(</span><span class=3D"pln">LIBRARY_OUTPUT_PATH $</span><span c=
+lass=3D"pun">{</span><span class=3D"pln">PROJECT_SOURCE_DIR</span=
+><span class=3D"pun">}/</span><span class=3D"pln">lib</span><span=
+ class=3D"pun">)</span></code></li><li class=3D"L7"><code class=3D=
+"language-java"></code></li><li class=3D"L8"><code class=3D"langu=
+age-java"><span class=3D"pun">#</span><span class=3D"pln"> MESSAG=
+E </span><span class=3D"pun">(</span><span class=3D"pln">STATUS <=
+/span><span class=3D"str">"src_list : "</span><span class=3D"pln"=
+>$</span><span class=3D"pun">{</span><span class=3D"pln">SRC_LIST=
+</span><span class=3D"pun">})</span></code></li><li class=3D"L9">=
+<code class=3D"language-java"></code></li><li class=3D"L0"><code=20=
+class=3D"language-java"><span class=3D"pun">#</span><span class=3D=
+"pln"> </span><span class=3D"pun">=D6=B8=B6=A8=C9=FA=B3=C9=B6=AF=CC=
+=AC=BF=E2</span><span class=3D"pln"> </span><span class=3D"pun">.=
+</span><span class=3D"pln">so  math </span><span class=3D"pun">-&=
+gt;</span><span class=3D"pln"> libmath</span><span class=3D"pun">=
+.</span><span class=3D"pln">so  </span><span class=3D"pun">=C4=AC=
+=C8=CF=C9=FA=B3=C9=B5=C4=CA=C7=BE=B2=CC=AC=BF=E2</span><span clas=
+s=3D"pln"> </span></code></li><li class=3D"L1"><code class=3D"lan=
+guage-java"><span class=3D"pln">ADD_LIBRARY </span><span class=3D=
+"pun">(</span><span class=3D"pln">math SHARED $</span><span class=
+=3D"pun">{</span><span class=3D"pln">SRC_LIST_CPP</span><span cla=
+ss=3D"pun">}</span><span class=3D"pln"> $</span><span class=3D"pu=
+n">{</span><span class=3D"pln">SRC_LIST_C</span><span class=3D"pu=
+n">})</span></code></li></ol></pre></div></div><div>4. =C1=B4=BD=D3=
+=CD=E2=B2=BF=B6=AF=CC=AC=BF=E2=D3=EB=CD=B7=CE=C4=BC=FE</div><div>=
+<div><pre class=3D"prettyprint linenums prettyprinted"><ol class=3D=
+"linenums"><li class=3D"L0"><code class=3D"language-java"><span c=
+lass=3D"pun">#</span><span class=3D"pln"> </span><span class=3D"p=
+un">=D6=B8=B6=A8</span><span class=3D"pln"> </span><span class=3D=
+"typ">CMake</span><span class=3D"pln"> </span><span class=3D"pun"=
+>=B5=C4=D7=EE=B5=CD=B1=E0=D2=EB=B0=E6=B1=BE</span></code></li><li=
+ class=3D"L1"><code class=3D"language-java"><span class=3D"pln">C=
+MAKE_MINIMUM_REQUIRED</span><span class=3D"pun">(</span><span cla=
+ss=3D"pln">VERSION </span><span class=3D"lit">3.14</span><span cl=
+ass=3D"pun">)</span></code></li><li class=3D"L2"><code class=3D"l=
+anguage-java"></code></li><li class=3D"L3"><code class=3D"languag=
+e-java"><span class=3D"pun">#</span><span class=3D"pln"> </span><=
+span class=3D"pun">...</span></code></li><li class=3D"L4"><code c=
+lass=3D"language-java"><span class=3D"pln">PROJECT </span><span c=
+lass=3D"pun">(</span><span class=3D"pln">HELLO</span><span class=3D=
+"pun">)</span></code></li><li class=3D"L5"><code class=3D"languag=
+e-java"></code></li><li class=3D"L6"><code class=3D"language-java=
+"><span class=3D"pun">#</span><span class=3D"pln"> </span><span c=
+lass=3D"pun">=D6=B8=B6=A8=CD=B7=CE=C4=BC=FE=D4=DA=C4=C4=B8=F6=C4=BF=
+=C2=BC</span></code></li><li class=3D"L7"><code class=3D"language=
+-java"><span class=3D"pln">INCLUDE_DIRECTORIES </span><span class=
+=3D"pun">(</span><span class=3D"pln">$</span><span class=3D"pun">=
+{</span><span class=3D"pln">PROJECT_SOURCE_DIR</span><span class=3D=
+"pun">}/</span><span class=3D"pln">include</span><span class=3D"p=
+un">)</span></code></li><li class=3D"L8"><code class=3D"language-=
+java"></code></li><li class=3D"L9"><code class=3D"language-java">=
+<span class=3D"pun">#</span><span class=3D"pln"> </span><span cla=
+ss=3D"pun">=B1=E0=D2=EB=CA=C7=D0=E8=D2=AA=C1=B4=BD=D3</span><span=
+ class=3D"pln"> lib </span><span class=3D"pun">=C4=BF=C2=BC=CF=C2=
+=B5=C4</span><span class=3D"pln"> libmath</span><span class=3D"pu=
+n">.</span><span class=3D"pln">so</span></code></li><li class=3D"=
+L0"><code class=3D"language-java"><span class=3D"pun">#</span><sp=
+an class=3D"pln"> </span><span class=3D"pun">=D6=B8=B6=A8</span><=
+span class=3D"pln"> so </span><span class=3D"pun">=D4=DA=C4=C4=B8=
+=F6=C4=BF=C2=BC=CF=C2</span></code></li><li class=3D"L1"><code cl=
+ass=3D"language-java"><span class=3D"pln">LINK_DIRECTORIES </span=
+><span class=3D"pun">(</span><span class=3D"pln">$</span><span cl=
+ass=3D"pun">{</span><span class=3D"pln">PROJECT_SOURCE_DIR</span>=
+<span class=3D"pun">}/</span><span class=3D"pln">lib</span><span=20=
+class=3D"pun">)</span></code></li><li class=3D"L2"><code class=3D=
+"language-java"></code></li><li class=3D"L3"><code class=3D"langu=
+age-java"><span class=3D"pun">#</span><span class=3D"pln"> </span=
+><span class=3D"pun">=C9=FA=B3=C9=BF=C9=D6=B4=D0=D0=CE=C4=BC=FE</=
+span></code></li><li class=3D"L4"><code class=3D"language-java"><=
+span class=3D"pln">ADD_EXECUTABLE </span><span class=3D"pun">(</s=
+pan><span class=3D"pln">hello hello</span><span class=3D"pun">.</=
+span><span class=3D"pln">cpp</span><span class=3D"pun">)</span></=
+code></li><li class=3D"L5"><code class=3D"language-java"></code><=
+/li><li class=3D"L6"><code class=3D"language-java"><span class=3D=
+"pun">#</span><span class=3D"pln"> </span><span class=3D"pun">=CE=
+=AA</span><span class=3D"pln"> hello </span><span class=3D"pun">=CC=
+=ED=BC=D3=B1=E0=D2=EB=C1=B4=BD=D3=BF=E2</span></code></li><li cla=
+ss=3D"L7"><code class=3D"language-java"><span class=3D"pln">TARGE=
+T_LINK_LIBRARIES </span><span class=3D"pun">(</span><span class=3D=
+"pln">hello math</span><span class=3D"pun">)</span></code></li></=
+ol></pre></div></div><div><br></div><div>5. =B1=E0=D0=B4=BB=F9=D3=
+=DA FFmpeg =BF=AA=B7=A2=B5=C4 CmakeLists.txt</div><div>=B5=DA=C8=FD=
+=B4=CE=BF=CE=B5=C4=C4=DA=C8=DD=CF=C2=D4=D8=CF=C2=C0=B4</div><div>=
+<div><pre class=3D"prettyprint linenums prettyprinted"><ol class=3D=
+"linenums"><li class=3D"L0"><code class=3D"language-java"><span c=
+lass=3D"pun">#</span><span class=3D"pln"> </span><span class=3D"p=
+un">=D6=B8=B6=A8=D7=EE=B5=CD=B0=E6=B1=BE=C3=FB=B3=C6</span></code=
+></li><li class=3D"L1"><code class=3D"language-java"><span class=3D=
+"pln">CMAKE_MINIMUM_REQUIRED</span><span class=3D"pun">(</span><s=
+pan class=3D"pln">VERSION </span><span class=3D"lit">3.4</span><s=
+pan class=3D"pun">.</span><span class=3D"lit">1</span><span class=
+=3D"pun">)</span></code></li><li class=3D"L2"><code class=3D"lang=
+uage-java"></code></li><li class=3D"L3"><code class=3D"language-j=
+ava"><span class=3D"pun">#</span><span class=3D"pln"> </span><spa=
+n class=3D"pun">=D6=B8=B6=A8=D2=FD=C8=EB=CD=B7=CE=C4=BC=FE=C4=BF=C2=
+=BC</span></code></li><li class=3D"L4"><code class=3D"language-ja=
+va"><span class=3D"pln">INCLUDE_DIRECTORIES</span><span class=3D"=
+pun">(</span><span class=3D"pln">$</span><span class=3D"pun">{</s=
+pan><span class=3D"pln">CMAKE_SOURCE_DIR</span><span class=3D"pun=
+">}/</span><span class=3D"pln">src</span><span class=3D"pun">/</s=
+pan><span class=3D"pln">main</span><span class=3D"pun">/</span><s=
+pan class=3D"pln">jniLibs</span><span class=3D"pun">/</span><span=
+ class=3D"pln">include</span><span class=3D"pun">)</span></code><=
+/li><li class=3D"L5"><code class=3D"language-java"><span class=3D=
+"pln">INCLUDE_DIRECTORIES</span><span class=3D"pun">(</span><span=
+ class=3D"pln">$</span><span class=3D"pun">{</span><span class=3D=
+"pln">CMAKE_SOURCE_DIR</span><span class=3D"pun">}/</span><span c=
+lass=3D"pln">src</span><span class=3D"pun">/</span><span class=3D=
+"pln">main</span><span class=3D"pun">/</span><span class=3D"pln">=
+jniLibs</span><span class=3D"pun">/</span><span class=3D"pln">oth=
+er</span><span class=3D"pun">)</span></code></li><li class=3D"L6"=
+><code class=3D"language-java"></code></li><li class=3D"L7"><code=
+ class=3D"language-java"><span class=3D"pun">#</span><span class=3D=
+"pln"> </span><span class=3D"pun">=D6=B8=B6=A8=B9=B2=CF=ED=BF=E2=B5=
+=C4=BF=E2=C4=BF=C2=BC</span></code></li><li class=3D"L8"><code cl=
+ass=3D"language-java"><span class=3D"pln">LINK_DIRECTORIES</span>=
+<span class=3D"pun">(</span><span class=3D"pln">$</span><span cla=
+ss=3D"pun">{</span><span class=3D"pln">CMAKE_SOURCE_DIR</span><sp=
+an class=3D"pun">}/</span><span class=3D"pln">src</span><span cla=
+ss=3D"pun">/</span><span class=3D"pln">main</span><span class=3D"=
+pun">/</span><span class=3D"pln">jniLibs</span><span class=3D"pun=
+">/</span><span class=3D"pln">armeabi</span><span class=3D"pun">)=
+</span></code></li><li class=3D"L9"><code class=3D"language-java"=
+></code></li><li class=3D"L0"><code class=3D"language-java"><span=
+ class=3D"pun">#</span><span class=3D"pln"> </span><span class=3D=
+"pun">=D6=B8=B6=A8=D4=B4=CE=C4=BC=FE=B5=C4=C4=BF=C2=BC</span></co=
+de></li><li class=3D"L1"><code class=3D"language-java"><span clas=
+s=3D"pln">AUX_SOURCE_DIRECTORY</span><span class=3D"pun">(</span>=
+<span class=3D"pln">$</span><span class=3D"pun">{</span><span cla=
+ss=3D"pln">CMAKE_SOURCE_DIR</span><span class=3D"pun">}/</span><s=
+pan class=3D"pln">src</span><span class=3D"pun">/</span><span cla=
+ss=3D"pln">main</span><span class=3D"pun">/</span><span class=3D"=
+pln">cpp SRC_LIST</span><span class=3D"pun">)</span></code></li><=
+li class=3D"L2"><code class=3D"language-java"></code></li><li cla=
+ss=3D"L3"><code class=3D"language-java"><span class=3D"pun">#</sp=
+an><span class=3D"pln"> </span><span class=3D"pun">=C9=FA=B3=C9</=
+span><span class=3D"pln"> </span><span class=3D"kwd">native</span=
+><span class=3D"pun">-</span><span class=3D"pln">lib</span></code=
+></li><li class=3D"L4"><code class=3D"language-java"><span class=3D=
+"pln">ADD_LIBRARY</span><span class=3D"pun">(</span><span class=3D=
+"kwd">native</span><span class=3D"pun">-</span><span class=3D"pln=
+">lib SHARED $</span><span class=3D"pun">{</span><span class=3D"p=
+ln">SRC_LIST</span><span class=3D"pun">})</span></code></li><li c=
+lass=3D"L5"><code class=3D"language-java"></code></li><li class=3D=
+"L6"><code class=3D"language-java"><span class=3D"pun">#</span><s=
+pan class=3D"pln"> </span><span class=3D"pun">=CE=AA</span><span=20=
+class=3D"pln"> </span><span class=3D"kwd">native</span><span clas=
+s=3D"pun">-</span><span class=3D"pln">lib </span><span class=3D"p=
+un">=CC=ED=BC=D3</span><span class=3D"pln"> ffmpeg </span><span c=
+lass=3D"pun">=B1=E0=D2=EB=C1=B4=BD=D3=BF=E2</span></code></li><li=
+ class=3D"L7"><code class=3D"language-java"><span class=3D"pln">T=
+ARGET_LINK_LIBRARIES</span><span class=3D"pun">(</span><span clas=
+s=3D"kwd">native</span><span class=3D"pun">-</span><span class=3D=
+"pln">lib  avcodec</span><span class=3D"pun">-</span><span class=3D=
+"lit">56</span></code></li><li class=3D"L8"><code class=3D"langua=
+ge-java"><span class=3D"pln">avdevice</span><span class=3D"pun">-=
+</span><span class=3D"lit">56</span></code></li><li class=3D"L9">=
+<code class=3D"language-java"><span class=3D"pln">avfilter</span>=
+<span class=3D"pun">-</span><span class=3D"lit">5</span></code></=
+li><li class=3D"L0"><code class=3D"language-java"><span class=3D"=
+pln">avformat</span><span class=3D"pun">-</span><span class=3D"li=
+t">56</span></code></li><li class=3D"L1"><code class=3D"language-=
+java"><span class=3D"pln">avutil</span><span class=3D"pun">-</spa=
+n><span class=3D"lit">54</span></code></li><li class=3D"L2"><code=
+ class=3D"language-java"><span class=3D"pln">postproc</span><span=
+ class=3D"pun">-</span><span class=3D"lit">53</span></code></li><=
+li class=3D"L3"><code class=3D"language-java"><span class=3D"pln"=
+>swresample</span><span class=3D"pun">-</span><span class=3D"lit"=
+>1</span></code></li><li class=3D"L4"><code class=3D"language-jav=
+a"><span class=3D"pln">swscale</span><span class=3D"pun">-</span>=
+<span class=3D"lit">3</span></code></li><li class=3D"L5"><code cl=
+ass=3D"language-java"><span class=3D"pun">-</span><span class=3D"=
+pln">landroid</span></code></li><li class=3D"L6"><code class=3D"l=
+anguage-java"><span class=3D"pun">-</span><span class=3D"pln">llo=
+g</span><span class=3D"pun">)</span></code></li></ol></pre></div>=
+<div><br></div></div><div>6. =BD=BB=B2=E6=B1=E0=D2=EB=C9=FA=B3=C9=
+ Android =C6=BD=CC=A8=B5=C4 .so</div><div>=D5=D2=D2=BB=D0=A9=D7=CA=
+=C1=CF=A3=AC=C8=BB=BA=F3=B1=E0=D2=EB=B3=C9 android =C6=BD=CC=A8=B5=
+=C4=A3=AC=D4=CB=D0=D0=B5=C4 AS =CF=EE=C4=BF=D6=D0</div><div><br><=
+/div><div><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(255, 0, 0);">QQ=BD=BB=C1=F7=C8=BA=A3=BA546270670</span></div><=
+div><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(255=
+, 0, 0);">=CA=D3=C6=B5=A3=BA2746186102</span></div><div><br></div=
+></body></html>
+
+------=_Next_Part_0111886765.962--
+
+------=_Next_Part_0335660295.358
+Content-Type: text/css;
+	name="wiz_code_highlight_68.css"
+Content-Transfer-Encoding: base64
+Content-ID: <wiz_code_highlight_68.css>
+Content-Location: wiz_code_highlight_68.css
+
+//4NAAoADQAKAA0ACgAuAGgAbABqAHMAIAB7AA0ACgAgACAAZABpAHMAcABsAGEAeQA6ACAAYgBs
+AG8AYwBrADsAIABwAGEAZABkAGkAbgBnADoAIAAwAC4ANQBlAG0AOwANAAoAIAAgAGIAYQBjAGsA
+ZwByAG8AdQBuAGQAOgAgACMARgAwAEYAMABGADAAOwANAAoAfQANAAoADQAKAC4AaABsAGoAcwAs
+AA0ACgAuAGgAbABqAHMALQBzAHUAYgBzAHQALAANAAoALgBoAGwAagBzAC0AdABhAGcAIAAuAGgA
+bABqAHMALQB0AGkAdABsAGUALAANAAoALgBsAGkAcwBwACAALgBoAGwAagBzAC0AdABpAHQAbABl
+ACwADQAKAC4AYwBsAG8AagB1AHIAZQAgAC4AaABsAGoAcwAtAGIAdQBpAGwAdABfAGkAbgAsAA0A
+CgAuAG4AZwBpAG4AeAAgAC4AaABsAGoAcwAtAHQAaQB0AGwAZQAgAHsADQAKACAAIABjAG8AbABv
+AHIAOgAgAGIAbABhAGMAawA7AA0ACgB9AA0ACgANAAoALgBoAGwAagBzAC0AcwB0AHIAaQBuAGcA
+LAANAAoALgBoAGwAagBzAC0AdABpAHQAbABlACwADQAKAC4AaABsAGoAcwAtAGMAbwBuAHMAdABh
+AG4AdAAsAA0ACgAuAGgAbABqAHMALQBwAGEAcgBlAG4AdAAsAA0ACgAuAGgAbABqAHMALQB0AGEA
+ZwAgAC4AaABsAGoAcwAtAHYAYQBsAHUAZQAsAA0ACgAuAGgAbABqAHMALQByAHUAbABlAHMAIAAu
+AGgAbABqAHMALQB2AGEAbAB1AGUALAANAAoALgBoAGwAagBzAC0AcgB1AGwAZQBzACAALgBoAGwA
+agBzAC0AdgBhAGwAdQBlACAALgBoAGwAagBzAC0AbgB1AG0AYgBlAHIALAANAAoALgBoAGwAagBz
+AC0AcAByAGUAcAByAG8AYwBlAHMAcwBvAHIALAANAAoALgBoAGwAagBzAC0AcAByAGEAZwBtAGEA
+LAANAAoALgBoAGEAbQBsACAALgBoAGwAagBzAC0AcwB5AG0AYgBvAGwALAANAAoALgByAHUAYgB5
+ACAALgBoAGwAagBzAC0AcwB5AG0AYgBvAGwALAANAAoALgByAHUAYgB5ACAALgBoAGwAagBzAC0A
+cwB5AG0AYgBvAGwAIAAuAGgAbABqAHMALQBzAHQAcgBpAG4AZwAsAA0ACgAuAGgAbABqAHMALQBh
+AGcAZwByAGUAZwBhAHQAZQAsAA0ACgAuAGgAbABqAHMALQB0AGUAbQBwAGwAYQB0AGUAXwB0AGEA
+ZwAsAA0ACgAuAGQAagBhAG4AZwBvACAALgBoAGwAagBzAC0AdgBhAHIAaQBhAGIAbABlACwADQAK
+AC4AcwBtAGEAbABsAHQAYQBsAGsAIAAuAGgAbABqAHMALQBjAGwAYQBzAHMALAANAAoALgBoAGwA
+agBzAC0AYQBkAGQAaQB0AGkAbwBuACwADQAKAC4AaABsAGoAcwAtAGYAbABvAHcALAANAAoALgBo
+AGwAagBzAC0AcwB0AHIAZQBhAG0ALAANAAoALgBiAGEAcwBoACAALgBoAGwAagBzAC0AdgBhAHIA
+aQBhAGIAbABlACwADQAKAC4AYQBwAGEAYwBoAGUAIAAuAGgAbABqAHMALQB0AGEAZwAsAA0ACgAu
+AGEAcABhAGMAaABlACAALgBoAGwAagBzAC0AYwBiAHIAYQBjAGsAZQB0ACwADQAKAC4AdABlAHgA
+IAAuAGgAbABqAHMALQBjAG8AbQBtAGEAbgBkACwADQAKAC4AdABlAHgAIAAuAGgAbABqAHMALQBz
+AHAAZQBjAGkAYQBsACwADQAKAC4AZQByAGwAYQBuAGcAXwByAGUAcABsACAALgBoAGwAagBzAC0A
+ZgB1AG4AYwB0AGkAbwBuAF8AbwByAF8AYQB0AG8AbQAsAA0ACgAuAGEAcwBjAGkAaQBkAG8AYwAg
+AC4AaABsAGoAcwAtAGgAZQBhAGQAZQByACwADQAKAC4AbQBhAHIAawBkAG8AdwBuACAALgBoAGwA
+agBzAC0AaABlAGEAZABlAHIALAANAAoALgBjAG8AZgBmAGUAZQBzAGMAcgBpAHAAdAAgAC4AaABs
+AGoAcwAtAGEAdAB0AHIAaQBiAHUAdABlACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwA4ADAA
+MAA7AA0ACgB9AA0ACgANAAoALgBzAG0AYQByAHQAcQB1AG8AdABlACwADQAKAC4AaABsAGoAcwAt
+AGMAbwBtAG0AZQBuAHQALAANAAoALgBoAGwAagBzAC0AYQBuAG4AbwB0AGEAdABpAG8AbgAsAA0A
+CgAuAGgAbABqAHMALQB0AGUAbQBwAGwAYQB0AGUAXwBjAG8AbQBtAGUAbgB0ACwADQAKAC4AZABp
+AGYAZgAgAC4AaABsAGoAcwAtAGgAZQBhAGQAZQByACwADQAKAC4AaABsAGoAcwAtAGMAaAB1AG4A
+awAsAA0ACgAuAGEAcwBjAGkAaQBkAG8AYwAgAC4AaABsAGoAcwAtAGIAbABvAGMAawBxAHUAbwB0
+AGUALAANAAoALgBtAGEAcgBrAGQAbwB3AG4AIAAuAGgAbABqAHMALQBiAGwAbwBjAGsAcQB1AG8A
+dABlACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwA4ADgAOAA7AA0ACgB9AA0ACgANAAoALgBo
+AGwAagBzAC0AbgB1AG0AYgBlAHIALAANAAoALgBoAGwAagBzAC0AZABhAHQAZQAsAA0ACgAuAGgA
+bABqAHMALQByAGUAZwBlAHgAcAAsAA0ACgAuAGgAbABqAHMALQBsAGkAdABlAHIAYQBsACwADQAK
+AC4AaABsAGoAcwAtAGgAZQB4AGMAbwBsAG8AcgAsAA0ACgAuAHMAbQBhAGwAbAB0AGEAbABrACAA
+LgBoAGwAagBzAC0AcwB5AG0AYgBvAGwALAANAAoALgBzAG0AYQBsAGwAdABhAGwAawAgAC4AaABs
+AGoAcwAtAGMAaABhAHIALAANAAoALgBnAG8AIAAuAGgAbABqAHMALQBjAG8AbgBzAHQAYQBuAHQA
+LAANAAoALgBoAGwAagBzAC0AYwBoAGEAbgBnAGUALAANAAoALgBsAGEAcwBzAG8AIAAuAGgAbABq
+AHMALQB2AGEAcgBpAGEAYgBsAGUALAANAAoALgBtAGEAawBlAGYAaQBsAGUAIAAuAGgAbABqAHMA
+LQB2AGEAcgBpAGEAYgBsAGUALAANAAoALgBhAHMAYwBpAGkAZABvAGMAIAAuAGgAbABqAHMALQBi
+AHUAbABsAGUAdAAsAA0ACgAuAG0AYQByAGsAZABvAHcAbgAgAC4AaABsAGoAcwAtAGIAdQBsAGwA
+ZQB0ACwADQAKAC4AYQBzAGMAaQBpAGQAbwBjACAALgBoAGwAagBzAC0AbABpAG4AawBfAHUAcgBs
+ACwADQAKAC4AbQBhAHIAawBkAG8AdwBuACAALgBoAGwAagBzAC0AbABpAG4AawBfAHUAcgBsACAA
+ewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwAwADgAMAA7AA0ACgB9AA0ACgANAAoALgBoAGwAagBz
+AC0AbABhAGIAZQBsACwADQAKAC4AaABsAGoAcwAtAGoAYQB2AGEAZABvAGMALAANAAoALgByAHUA
+YgB5ACAALgBoAGwAagBzAC0AcwB0AHIAaQBuAGcALAANAAoALgBoAGwAagBzAC0AZABlAGMAbwBy
+AGEAdABvAHIALAANAAoALgBoAGwAagBzAC0AZgBpAGwAdABlAHIAIAAuAGgAbABqAHMALQBhAHIA
+ZwB1AG0AZQBuAHQALAANAAoALgBoAGwAagBzAC0AbABvAGMAYQBsAHYAYQByAHMALAANAAoALgBo
+AGwAagBzAC0AYQByAHIAYQB5ACwADQAKAC4AaABsAGoAcwAtAGEAdAB0AHIAXwBzAGUAbABlAGMA
+dABvAHIALAANAAoALgBoAGwAagBzAC0AaQBtAHAAbwByAHQAYQBuAHQALAANAAoALgBoAGwAagBz
+AC0AcABzAGUAdQBkAG8ALAANAAoALgBoAGwAagBzAC0AcABpACwADQAKAC4AaABhAG0AbAAgAC4A
+aABsAGoAcwAtAGIAdQBsAGwAZQB0ACwADQAKAC4AaABsAGoAcwAtAGQAbwBjAHQAeQBwAGUALAAN
+AAoALgBoAGwAagBzAC0AZABlAGwAZQB0AGkAbwBuACwADQAKAC4AaABsAGoAcwAtAGUAbgB2AHYA
+YQByACwADQAKAC4AaABsAGoAcwAtAHMAaABlAGIAYQBuAGcALAANAAoALgBhAHAAYQBjAGgAZQAg
+AC4AaABsAGoAcwAtAHMAcQBiAHIAYQBjAGsAZQB0ACwADQAKAC4AbgBnAGkAbgB4ACAALgBoAGwA
+agBzAC0AYgB1AGkAbAB0AF8AaQBuACwADQAKAC4AdABlAHgAIAAuAGgAbABqAHMALQBmAG8AcgBt
+AHUAbABhACwADQAKAC4AZQByAGwAYQBuAGcAXwByAGUAcABsACAALgBoAGwAagBzAC0AcgBlAHMA
+ZQByAHYAZQBkACwADQAKAC4AaABsAGoAcwAtAHAAcgBvAG0AcAB0ACwADQAKAC4AYQBzAGMAaQBp
+AGQAbwBjACAALgBoAGwAagBzAC0AbABpAG4AawBfAGwAYQBiAGUAbAAsAA0ACgAuAG0AYQByAGsA
+ZABvAHcAbgAgAC4AaABsAGoAcwAtAGwAaQBuAGsAXwBsAGEAYgBlAGwALAANAAoALgB2AGgAZABs
+ACAALgBoAGwAagBzAC0AYQB0AHQAcgBpAGIAdQB0AGUALAANAAoALgBjAGwAbwBqAHUAcgBlACAA
+LgBoAGwAagBzAC0AYQB0AHQAcgBpAGIAdQB0AGUALAANAAoALgBhAHMAYwBpAGkAZABvAGMAIAAu
+AGgAbABqAHMALQBhAHQAdAByAGkAYgB1AHQAZQAsAA0ACgAuAGwAYQBzAHMAbwAgAC4AaABsAGoA
+cwAtAGEAdAB0AHIAaQBiAHUAdABlACwADQAKAC4AYwBvAGYAZgBlAGUAcwBjAHIAaQBwAHQAIAAu
+AGgAbABqAHMALQBwAHIAbwBwAGUAcgB0AHkALAANAAoALgBoAGwAagBzAC0AcABoAG8AbgB5ACAA
+ewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwA4ADgARgANAAoAfQANAAoADQAKAC4AaABsAGoAcwAt
+AGsAZQB5AHcAbwByAGQALAANAAoALgBoAGwAagBzAC0AaQBkACwADQAKAC4AaABsAGoAcwAtAHQA
+aQB0AGwAZQAsAA0ACgAuAGgAbABqAHMALQBiAHUAaQBsAHQAXwBpAG4ALAANAAoALgBoAGwAagBz
+AC0AYQBnAGcAcgBlAGcAYQB0AGUALAANAAoALgBjAHMAcwAgAC4AaABsAGoAcwAtAHQAYQBnACwA
+DQAKAC4AaABsAGoAcwAtAGoAYQB2AGEAZABvAGMAdABhAGcALAANAAoALgBoAGwAagBzAC0AcABo
+AHAAZABvAGMALAANAAoALgBoAGwAagBzAC0AeQBhAHIAZABvAGMAdABhAGcALAANAAoALgBzAG0A
+YQBsAGwAdABhAGwAawAgAC4AaABsAGoAcwAtAGMAbABhAHMAcwAsAA0ACgAuAGgAbABqAHMALQB3
+AGkAbgB1AHQAaQBsAHMALAANAAoALgBiAGEAcwBoACAALgBoAGwAagBzAC0AdgBhAHIAaQBhAGIA
+bABlACwADQAKAC4AYQBwAGEAYwBoAGUAIAAuAGgAbABqAHMALQB0AGEAZwAsAA0ACgAuAGcAbwAg
+AC4AaABsAGoAcwAtAHQAeQBwAGUAbgBhAG0AZQAsAA0ACgAuAHQAZQB4ACAALgBoAGwAagBzAC0A
+YwBvAG0AbQBhAG4AZAAsAA0ACgAuAGEAcwBjAGkAaQBkAG8AYwAgAC4AaABsAGoAcwAtAHMAdABy
+AG8AbgBnACwADQAKAC4AbQBhAHIAawBkAG8AdwBuACAALgBoAGwAagBzAC0AcwB0AHIAbwBuAGcA
+LAANAAoALgBoAGwAagBzAC0AcgBlAHEAdQBlAHMAdAAsAA0ACgAuAGgAbABqAHMALQBzAHQAYQB0
+AHUAcwAgAHsADQAKACAAIABmAG8AbgB0AC0AdwBlAGkAZwBoAHQAOgAgAGIAbwBsAGQAOwANAAoA
+fQANAAoADQAKAC4AYQBzAGMAaQBpAGQAbwBjACAALgBoAGwAagBzAC0AZQBtAHAAaABhAHMAaQBz
+ACwADQAKAC4AbQBhAHIAawBkAG8AdwBuACAALgBoAGwAagBzAC0AZQBtAHAAaABhAHMAaQBzACAA
+ewANAAoAIAAgAGYAbwBuAHQALQBzAHQAeQBsAGUAOgAgAGkAdABhAGwAaQBjADsADQAKAH0ADQAK
+AA0ACgAuAG4AZwBpAG4AeAAgAC4AaABsAGoAcwAtAGIAdQBpAGwAdABfAGkAbgAgAHsADQAKACAA
+IABmAG8AbgB0AC0AdwBlAGkAZwBoAHQAOgAgAG4AbwByAG0AYQBsADsADQAKAH0ADQAKAA0ACgAu
+AGMAbwBmAGYAZQBlAHMAYwByAGkAcAB0ACAALgBqAGEAdgBhAHMAYwByAGkAcAB0ACwADQAKAC4A
+agBhAHYAYQBzAGMAcgBpAHAAdAAgAC4AeABtAGwALAANAAoALgBsAGEAcwBzAG8AIAAuAG0AYQBy
+AGsAdQBwACwADQAKAC4AdABlAHgAIAAuAGgAbABqAHMALQBmAG8AcgBtAHUAbABhACwADQAKAC4A
+eABtAGwAIAAuAGoAYQB2AGEAcwBjAHIAaQBwAHQALAANAAoALgB4AG0AbAAgAC4AdgBiAHMAYwBy
+AGkAcAB0ACwADQAKAC4AeABtAGwAIAAuAGMAcwBzACwADQAKAC4AeABtAGwAIAAuAGgAbABqAHMA
+LQBjAGQAYQB0AGEAIAB7AA0ACgAgACAAbwBwAGEAYwBpAHQAeQA6ACAAMAAuADUAOwANAAoAfQAN
+AAoADQAKAHAAcgBlACAAewANAAoAIAAgAGYAbwBuAHQALQBzAGkAegBlADoAIAAxADMAcAB4ADsA
+DQAKAH0ADQAKAA0ACgBwAHIAZQAsACAAYwBvAGQAZQAgAHsADQAKACAAIABmAG8AbgB0AC0AZgBh
+AG0AaQBsAHkAOgAgAEMAbwBuAHMAbwBsAGEAcwAsACAAIgBMAGkAYgBlAHIAYQB0AGkAbwBuACAA
+TQBvAG4AbwAiACwAIABNAGUAbgBsAG8ALAAgAEMAbwB1AHIAaQBlAHIALAAgAG0AbwBuAG8AcwBw
+AGEAYwBlADsADQAKACAAIAB3AG8AcgBkAC0AdwByAGEAcAA6ACAAYgByAGUAYQBrAC0AdwBvAHIA
+ZAA7AA0ACgB9AA0ACgANAAoALgBwAGwAbgAgAHsADQAKACAAIABjAG8AbABvAHIAOgAgACMANAA4
+ADQAOAA0AEMAOwAgAH0ADQAKAA0ACgAuAHMAdAByACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAA
+IwBEAEQAMQAxADQANAA7ACAAfQANAAoADQAKAC4AawB3AGQAIAB7AA0ACgAgACAAYwBvAGwAbwBy
+ADoAIAAjADEARQAzADQANwBCADsAIAB9AA0ACgANAAoALgBjAG8AbQAgAHsADQAKACAAIABjAG8A
+bABvAHIAOgAgACMAOQAzAEEAMQBBADEAOwAgAH0ADQAKAA0ACgAuAHQAeQBwACAAewANAAoAIAAg
+AGMAbwBsAG8AcgA6ACAAdABlAGEAbAA7ACAAfQANAAoADQAKAC4AbABpAHQAIAB7AA0ACgAgACAA
+YwBvAGwAbwByADoAIAAjADEAOQA1AEYAOQAxADsAIAB9AA0ACgANAAoALgBwAHUAbgAgAHsADQAK
+ACAAIABjAG8AbABvAHIAOgAgACMAOQAzAEEAMQBBADEAOwAgAH0ADQAKAA0ACgAuAG8AcABuACAA
+ewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwA5ADMAQQAxAEEAMQA7ACAAfQANAAoADQAKAC4AYwBs
+AG8AIAB7AA0ACgAgACAAYwBvAGwAbwByADoAIAAjADkAMwBBADEAQQAxADsAIAB9AA0ACgANAAoA
+LgB0AGEAZwAgAHsADQAKACAAIABjAG8AbABvAHIAOgAgACMAMAAwADgAOwAgAH0ADQAKAA0ACgAu
+AGEAdABuACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAdABlAGEAbAA7ACAAfQANAAoADQAKAC4A
+YQB0AHYAIAB7AA0ACgAgACAAYwBvAGwAbwByADoAIAAjAEQARAAxADEANAA0ADsAIAB9AA0ACgAN
+AAoALgBkAGUAYwAgAHsADQAKACAAIABjAG8AbABvAHIAOgAgAHQAZQBhAGwAOwAgAH0ADQAKAA0A
+CgAuAHYAYQByACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAdABlAGEAbAA7ACAAfQANAAoADQAK
+AC4AZgB1AG4AIAB7AA0ACgAgACAAYwBvAGwAbwByADoAIAAjAEQAQwAzADIAMgBGADsAIAB9AA0A
+CgANAAoADQAKAHAAcgBlAC4AcAByAGUAdAB0AHkAcAByAGkAbgB0ACAAewANAAoAIAAgAGIAYQBj
+AGsAZwByAG8AdQBuAGQALQBjAG8AbABvAHIAOgAgACMARgA3AEYANwBGADkAOwANAAoAIAAgAHAA
+YQBkAGQAaQBuAGcAOgAgADAAcAB4ADsADQAKACAAIABiAG8AcgBkAGUAcgA6ACAAMQBwAHgAIABz
+AG8AbABpAGQAIAAjAEUAMQBFADEARQA4ADsADQAKACAAIAB0AGEAYgAtAHMAaQB6AGUAOgAgADQA
+OwAgAH0ADQAKAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1
+AG0AcwAgAHsADQAKACAAIABvAHYAZQByAGYAbABvAHcAOgAgAGEAdQB0AG8AOwANAAoAIAAgAC0A
+dwBlAGIAawBpAHQALQBvAHYAZQByAGYAbABvAHcALQBzAGMAcgBvAGwAbABpAG4AZwA6ACAAdABv
+AHUAYwBoADsADQAKAH0ADQAKAA0ACgANAAoAcAByAGUALgBwAHIAZQB0AHQAeQBwAHIAaQBuAHQA
+LgBsAGkAbgBlAG4AdQBtAHMAIABvAGwALgBsAGkAbgBlAG4AdQBtAHMAIAB7AA0ACgAgACAAYgBv
+AHgALQBzAGgAYQBkAG8AdwA6ACAANAAwAHAAeAAgADAAIAAwACAAIwBGAEIARgBCAEYAQwAgAGkA
+bgBzAGUAdAAsACAANAAxAHAAeAAgADAAIAAwACAAIwBFAEMARQBDAEYAMAAgAGkAbgBzAGUAdAA7
+AA0ACgAgACAAYwBvAGwAbwByADoAIAAjADEARQAzADQANwBCADsADQAKACAAIABwAGEAZABkAGkA
+bgBnADoAIAAxADAAcAB4ACAAMQAwAHAAeAAgADEAMABwAHgAIAA0ADAAcAB4ACAAIQBpAG0AcABv
+AHIAdABhAG4AdAA7AA0ACgAgACAAbQBhAHIAZwBpAG4ALQB0AG8AcAA6ACAAMAA7AA0ACgAgACAA
+bQBhAHIAZwBpAG4ALQBiAG8AdAB0AG8AbQA6ACAAMAA7AA0ACgB9AA0ACgANAAoAcAByAGUALgBw
+AHIAZQB0AHQAeQBwAHIAaQBuAHQALgBsAGkAbgBlAG4AdQBtAHMAIABvAGwALgBsAGkAbgBlAG4A
+dQBtAHMAIABsAGkAIAB7AA0ACgAgACAAYwBvAGwAbwByADoAIAAjAEIARQBCAEUAQwA1ADsADQAK
+ACAAIABsAGkAbgBlAC0AaABlAGkAZwBoAHQAOgAgADEAOABwAHgAOwANAAoAIAAgAHAAYQBkAGQA
+aQBuAGcALQBsAGUAZgB0ADoAIAAxADIAcAB4ACAAIQBpAG0AcABvAHIAdABhAG4AdAA7AA0ACgB9
+AA0ACgANAAoAcAByAGUALgBwAHIAZQB0AHQAeQBwAHIAaQBuAHQALgBsAGkAbgBlAG4AdQBtAHMA
+IABvAGwALgBsAGkAbgBlAG4AdQBtAHMAIABsAGkALgBMADAALAANAAoAcAByAGUALgBwAHIAZQB0
+AHQAeQBwAHIAaQBuAHQALgBsAGkAbgBlAG4AdQBtAHMAIABvAGwALgBsAGkAbgBlAG4AdQBtAHMA
+IABsAGkALgBMADEALAANAAoAcAByAGUALgBwAHIAZQB0AHQAeQBwAHIAaQBuAHQALgBsAGkAbgBl
+AG4AdQBtAHMAIABvAGwALgBsAGkAbgBlAG4AdQBtAHMAIABsAGkALgBMADIALAANAAoAcAByAGUA
+LgBwAHIAZQB0AHQAeQBwAHIAaQBuAHQALgBsAGkAbgBlAG4AdQBtAHMAIABvAGwALgBsAGkAbgBl
+AG4AdQBtAHMAIABsAGkALgBMADMALAANAAoAcAByAGUALgBwAHIAZQB0AHQAeQBwAHIAaQBuAHQA
+LgBsAGkAbgBlAG4AdQBtAHMAIABvAGwALgBsAGkAbgBlAG4AdQBtAHMAIABsAGkALgBMADQALAAN
+AAoAcAByAGUALgBwAHIAZQB0AHQAeQBwAHIAaQBuAHQALgBsAGkAbgBlAG4AdQBtAHMAIABvAGwA
+LgBsAGkAbgBlAG4AdQBtAHMAIABsAGkALgBMADUALAANAAoAcAByAGUALgBwAHIAZQB0AHQAeQBw
+AHIAaQBuAHQALgBsAGkAbgBlAG4AdQBtAHMAIABvAGwALgBsAGkAbgBlAG4AdQBtAHMAIABsAGkA
+LgBMADYALAANAAoAcAByAGUALgBwAHIAZQB0AHQAeQBwAHIAaQBuAHQALgBsAGkAbgBlAG4AdQBt
+AHMAIABvAGwALgBsAGkAbgBlAG4AdQBtAHMAIABsAGkALgBMADcALAANAAoAcAByAGUALgBwAHIA
+ZQB0AHQAeQBwAHIAaQBuAHQALgBsAGkAbgBlAG4AdQBtAHMAIABvAGwALgBsAGkAbgBlAG4AdQBt
+AHMAIABsAGkALgBMADgALAANAAoAcAByAGUALgBwAHIAZQB0AHQAeQBwAHIAaQBuAHQALgBsAGkA
+bgBlAG4AdQBtAHMAIABvAGwALgBsAGkAbgBlAG4AdQBtAHMAIABsAGkALgBMADkAIAB7AA0ACgAg
+ACAAbABpAHMAdAAtAHMAdAB5AGwAZQAtAHQAeQBwAGUAOgAgAGQAZQBjAGkAbQBhAGwAIAAhAGkA
+bQBwAG8AcgB0AGEAbgB0ADsADQAKAH0ADQAKAA==
+
+------=_Next_Part_0335660295.358--
+

@@ -1,0 +1,119 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?MzYuIMr9vt294bm5y+O3qCAtIMOwxd3TxbuvoaKy5cjrus3Po7b7xcXQ8g==?=
+Date: Date: Sun, 12 Aug 2018 22:44:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0306343359.169"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0306343359.169
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0102114453.724"
+
+
+------=_Next_Part_0102114453.724
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0102114453.724
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A<title>36. =CA=
+=FD=BE=DD=BD=E1=B9=B9=CB=E3=B7=A8 - =C3=B0=C5=DD=D3=C5=BB=AF=A1=A2=
+=B2=E5=C8=EB=BA=CD=CF=A3=B6=FB=C5=C5=D0=F2</title>=0A    <!--mark=
+ |wiz_custom_css| for wizeditor replace it-->=0A<style id=3D"wiz_=
+custom_css">html, body {            font-size: 15px;        }   =20=
+    body {            font-family: Helvetica, 'Hiragino Sans GB',=
+ '=CE=A2=C8=ED=D1=C5=BA=DA', 'Microsoft YaHei UI', SimSun, SimHei=
+, arial, sans-serif;            line-height: 1.6;            marg=
+in: 0;            padding: 20px 15px;            padding: 1.33rem=
+ 1rem;        }        h1, h2, h3, h4, h5, h6 {            margin=
+: 20px 0 10px;            margin: 1.33rem 0 0.667rem;           =20=
+padding: 0;            font-weight: bold;        }        h1 {  =20=
+         font-size: 21px;            font-size: 1.4rem;        }=20=
+       h2 {            font-size: 20px;            font-size: 1.3=
+3rem;        }        h3 {            font-size: 18px;          =20=
+ font-size: 1.2rem;        }        h4 {            font-size: 17=
+px;            font-size: 1.13rem;        }        h5 {         =20=
+  font-size: 15px;            font-size: 1rem;        }        h6=
+ {            font-size: 15px;            font-size: 1rem;      =20=
+     color: #777777;            margin: 1rem 0;        }        d=
+iv, p, ul, ol, dl, li {            margin: 0;        }        blo=
+ckquote, table, pre, code {            margin: 8px 0;        }  =20=
+     ul, ol {            padding-left: 32px;            padding-l=
+eft: 2.13rem;        }        blockquote {            padding: 0=20=
+12px;            padding: 0 0.8rem;        }        blockquote >=20=
+:first-child {            margin-top: 0;        }        blockquo=
+te > :last-child {            margin-bottom: 0;        }        i=
+mg {            border: 0;            max-width: 100%;          =20=
+ height: auto !important;            margin: 2px 0;        }    =20=
+   table {            border-collapse: collapse;            borde=
+r: 1px solid #bbbbbb;        }        td, th {            padding=
+: 4px 8px;            border-collapse: collapse;            borde=
+r: 1px solid #bbbbbb;			        }        @media only screen and (=
+-webkit-max-device-width: 1024px), only screen and (-o-max-device=
+-width: 1024px), only screen and (max-device-width: 1024px), only=
+ screen and (-webkit-min-device-pixel-ratio: 3), only screen and=20=
+(-o-min-device-pixel-ratio: 3), only screen and (min-device-pixel=
+-ratio: 3) {            html, body {                font-size: 17=
+px;            }            body {                line-height: 1.=
+7;                padding: 0.75rem 0.9375rem;                colo=
+r: #353c47;            }            h1 {                font-size=
+: 2.125rem;            }            h2 {                font-size=
+: 1.875rem;            }            h3 {                font-size=
+: 1.625rem;            }            h4 {                font-size=
+: 1.375rem;            }            h5 {                font-size=
+: 1.125rem;            }            h6 {                color: in=
+herit;            }            ul, ol {                padding-le=
+ft: 2.5rem;            }            blockquote {                p=
+adding: 0 0.9375rem;            }        }</style></head>=0A=0A<b=
+ody spellcheck=3D"false" ><div>1. ndk =B4=ED=CE=F3=C8=D5=D6=BE=B5=
+=F7=CA=D4</div><div>=B5=DA=D2=BB=D6=D6=A3=BAndk-stack</div><div><=
+div>adb logcat | ndk-stack -sym C:\Users\hcDarren\Desktop\android=
+\NDK\NDK_Day35_AS\app\build\intermediates\cmake\debug\obj\armeabi=
+</div></div><div><br></div><div>=B5=DA=B6=FE=D6=D6=A3=BA<span sty=
+le=3D"orphans: 2; widows: 2; line-height: 1.6;"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"color: rgb(255, 0, 0);">addr2line</=
+span></span></div><div>=BB=B7=BE=B3=B1=E4=C1=BF=C5=E4=D6=C3=A3=BA=
+</div><div>C:\Users\hcDarren\AppData\Local\Android\sdk\ndk-bundle=
+\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin=
+<br></div><div>=BB=F1=C8=A1=CF=EA=CF=B8=B4=ED=CE=F3=C8=D5=D6=BE=A3=
+=BA</div><div style=3D"orphans: auto; widows: 1;"><span style=3D"=
+font-variant-ligatures: normal; orphans: 2; widows: 2;">arm-linux=
+-androideabi-addr2line -e=0A<span style=3D"orphans: auto; widows:=
+ 1;">C:\Users\hcDarren\Desktop\android\NDK\NDK_Day35_AS\app\build=
+\intermediates\cmake\debug\obj\</span></span>armeabi<span style=3D=
+"line-height: 1.6; font-variant-ligatures: normal; orphans: 2; wi=
+dows: 2;"><span style=3D"orphans: auto; widows: 1;">\</span></spa=
+n><span style=3D"line-height: 1.6;">libnative-lib.so&nbsp;<span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"color: rgb(255, 0, 0);">0=
+0007fc7(=CF=EA=CF=B8=B4=ED=CE=F3)</span></span></div><div style=3D=
+"orphans: auto; widows: 1;"><span style=3D"orphans: 2; widows: 2;=
+ line-height: 1.6;"></span></div><div><br></div><div>Fatal signal=
+ 6 (SIGABRT), code -6 in tid 18780 (arren.ndk.day35)<br></div><di=
+v>Routine Java_com_darren_ndk_day35_MainActivity_stringFromJNI at=
+ C:\Users\hcDarren\Desktop\android\NDK\NDK_Day35_AS\app\src\main\=
+cpp/native-lib.cpp:<span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(255, 0, 0);">65</span><br></div><div><br></div><div>2=
+. =C3=B0=C5=DD=C5=C5=D0=F2=D3=C5=BB=AF</div><div>=CB=BC=CF=EB=A3=BA=
+1.=D2=AA=C3=B4=CC=E1=C8=A1=D6=D5=D6=B9=D1=AD=BB=B7=A3=AC2.=BC=F5=C9=
+=D9=D5=E2=B8=F6=BD=BB=BB=BB=B5=C4=B4=CE=CA=FD</div><div><br></div=
+><div>3. =B2=E5=C8=EB=C5=C5=D0=F2</div><div><br></div><div><br></=
+div><div>4. =CF=A3=B6=FB=C5=C5=D0=F2</div><div><br></div><div><br=
+></div><div><br></div><div><br></div><div><br></div><div><br></di=
+v><div><br></div><div><br></div><div><br></div><div><br></div><di=
+v><br></div><div><br></div><div><br></div><div><br></div><div><br=
+></div><div><br></div><div><br></div></body></html>
+
+------=_Next_Part_0102114453.724--
+
+------=_Next_Part_0306343359.169--
+

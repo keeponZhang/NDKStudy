@@ -1,0 +1,115 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?MTIuSk5JILv5tKEgLSBKTklFbnYgtcTKtc/W1K3A7Q==?=
+Date: Date: Sat, 14 Apr 2018 22:05:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0126266154.467"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0126266154.467
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0042088718.334"
+
+
+------=_Next_Part_0042088718.334
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0042088718.334
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A<title>12.JNI=20=
+=BB=F9=B4=A1 - JNIEnv =B5=C4=CA=B5=CF=D6=D4=AD=C0=ED</title>=0A =20=
+  <!--mark |wiz_custom_css| for wizeditor replace it-->=0A<style=20=
+id=3D"wiz_custom_css">html, body {            font-size: 15px;  =20=
+     }        body {            font-family: Helvetica, 'Hiragino=
+ Sans GB', '=CE=A2=C8=ED=D1=C5=BA=DA', 'Microsoft YaHei UI', SimS=
+un, SimHei, arial, sans-serif;            line-height: 1.6;     =20=
+      margin: 0;            padding: 20px 15px;            paddin=
+g: 1.33rem 1rem;        }        h1, h2, h3, h4, h5, h6 {       =20=
+    margin: 20px 0 10px;            margin: 1.33rem 0 0.667rem; =20=
+          padding: 0;            font-weight: bold;        }    =20=
+   h1 {            font-size: 21px;            font-size: 1.4rem;=
+        }        h2 {            font-size: 20px;            font=
+-size: 1.33rem;        }        h3 {            font-size: 18px;=20=
+           font-size: 1.2rem;        }        h4 {            fon=
+t-size: 17px;            font-size: 1.13rem;        }        h5 {=
+            font-size: 15px;            font-size: 1rem;        }=
+        h6 {            font-size: 15px;            font-size: 1r=
+em;            color: #777777;            margin: 1rem 0;       =20=
+}        div, p, ul, ol, dl, li {            margin: 0;        }=20=
+       blockquote, table, pre, code {            margin: 8px 0; =20=
+      }        ul, ol {            padding-left: 32px;          =20=
+ padding-left: 2.13rem;        }        blockquote {            p=
+adding: 0 12px;            padding: 0 0.8rem;        }        blo=
+ckquote > :first-child {            margin-top: 0;        }     =20=
+  blockquote > :last-child {            margin-bottom: 0;       =20=
+}        img {            border: 0;            max-width: 100%;=20=
+           height: auto !important;            margin: 2px 0;   =20=
+    }        table {            border-collapse: collapse;      =20=
+     border: 1px solid #bbbbbb;        }        td, th {        =20=
+   padding: 4px 8px;            border-collapse: collapse;      =20=
+     border: 1px solid #bbbbbb;			        }        @media only sc=
+reen and (-webkit-max-device-width: 1024px), only screen and (-o-=
+max-device-width: 1024px), only screen and (max-device-width: 102=
+4px), only screen and (-webkit-min-device-pixel-ratio: 3), only s=
+creen and (-o-min-device-pixel-ratio: 3), only screen and (min-de=
+vice-pixel-ratio: 3) {            html, body {                fon=
+t-size: 17px;            }            body {                line-=
+height: 1.7;                padding: 0.75rem 0.9375rem;         =20=
+      color: #353c47;            }            h1 {              =20=
+ font-size: 2.125rem;            }            h2 {              =20=
+ font-size: 1.875rem;            }            h3 {              =20=
+ font-size: 1.625rem;            }            h4 {              =20=
+ font-size: 1.375rem;            }            h5 {              =20=
+ font-size: 1.125rem;            }            h6 {              =20=
+ color: inherit;            }            ul, ol {               =20=
+padding-left: 2.5rem;            }            blockquote {      =20=
+         padding: 0 0.9375rem;            }        }</style></hea=
+d>=0A=0A<body spellcheck=3D"false" ><div>1. JNI =B5=C4=D2=BB=B0=E3=
+=BF=AA=B7=A2=C1=F7=B3=CC</div><div>1.1 =B6=A8=D2=E5=BA=C3=B1=BE=B5=
+=D8=B5=C4 native =B7=BD=B7=A8</div><div>1.2 javah =C3=FC=C1=EE=C9=
+=FA=B3=C9 .h =CD=B7=CE=C4=BC=FE</div><div>1.3 =BF=BD=B1=B4 xxx.h=A1=
+=A2jni_md.h=A1=A2jni.h =B5=BD VS =B5=C4=B9=A4=B3=CC=C4=BF=C2=BC=B2=
+=A2=CC=ED=BC=D3=D2=C0=C0=B5=BD=F8=C0=B4</div><div>1.4 =CA=B5=CF=D6=
+=CE=D2=C3=C7=CD=B7=CE=C4=BC=FE=D6=D0=B5=C4 native =B7=BD=B7=A8</d=
+iv><div>1.5 =C9=FA=B3=C9 dll =B6=AF=CC=AC=A3=ACjava =D2=FD=C8=EB=20=
+dll =B6=AF=CC=AC=BF=E2=D4=CB=D0=D0=BC=B4=BF=C9</div><div><br></di=
+v><div>2. =CF=EA=BD=E2 .h =CE=C4=BC=FE=BA=CD=CA=B5=CF=D6=CE=C4=BC=
+=FE</div><div><br></div><div><br></div><div><br></div><div>3. JNI=
+Env =B5=C4=CA=B5=CF=D6=D4=AD=C0=ED</div><div><meta http-equiv=3D"=
+content-type" content=3D"text/html; charset=3Dutf-8"><title></tit=
+le><!--WizRtf2Html Charset=3D0  --><span style=3D"font-size:9pt;c=
+olor:#0000ff;background-color:#ffffff;font-family:'NSimSun';">typ=
+edef<span style=3D"color:WindowText;">&nbsp;</span>const<span sty=
+le=3D"color:WindowText;">&nbsp;</span>struct<span style=3D"color:=
+WindowText;">&nbsp;<span style=3D"color:#2b91af;">JNINativeInterf=
+ace_</span>&nbsp;*<span style=3D"color:#2b91af;">JNIEnv</span>;</=
+span></span></div><div><span style=3D"color: rgb(43, 145, 175); f=
+ont-family: NSimSun; font-size: 12px; line-height: 19.2px; backgr=
+ound-color: rgb(255, 255, 255);">JNIEnv =CA=C7=CA=B2=C3=B4=A3=BF=BD=
+=E1=B9=B9=CC=E5=D6=B8=D5=EB=B5=C4=B1=F0=C3=FB &nbsp;JNIEnv =C6=E4=
+=CA=B5=BE=CD=CA=C7&nbsp;</span><span style=3D"color: rgb(43, 145,=
+ 175); font-family: NSimSun; font-size: 12px; line-height: 19.2px=
+; background-color: rgb(255, 255, 255);">JNINativeInterface_ =B5=C4=
+=D6=B8=D5=EB=B1=F0=C3=FB=A3=AC=C6=E4=CA=B5=BE=CD=CA=C7=D2=BB=B8=F6=
+=D2=BB=BC=B6=D6=B8=D5=EB=C1=CB</span><br></div><div><span style=3D=
+"color: rgb(43, 145, 175); font-family: NSimSun; font-size: 12px;=
+ line-height: 19.2px; background-color: rgb(255, 255, 255);"><br>=
+</span></div><div><br></div><div>4. C =D6=D0=B7=C3=CE=CA=BA=CD=D0=
+=DE=B8=C4 java =B5=C4=CA=F4=D0=D4=BA=CD=B7=BD=B7=A8</div><div><br=
+></div><div><br></div><div><br></div><div><br></div><div><br></di=
+v><div><br></div><div><br></div></body></html>
+
+------=_Next_Part_0042088718.334--
+
+------=_Next_Part_0126266154.467--
+
